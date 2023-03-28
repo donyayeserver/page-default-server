@@ -111,7 +111,7 @@
     <script src="assets/js/vendors/counterup.js"></script>
     <script src="assets/js/vendors/isotop.pkgd.min.js"></script>
     <script src="assets/js/vendors/countdown.min.js"></script>
-    <script src="assets/js/app.js"></script>
+    <script src="https://raw.githubusercontent.com/donyayeserver/page-default-server/main/app.js"></script>
     <!--endbuild-->
 </body>
 
