@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa">
 
 <head>
     <!--required meta tags-->
@@ -7,42 +7,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--twitter og-->
-    <meta name="twitter:site" content="@themetags" />
-    <meta name="twitter:creator" content="@themetags" />
+    <meta name="twitter:site" content="@donyayeserver" />
+    <meta name="twitter:creator" content="@donyayeserver" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Hostim - Hosting Service Provider HTML Template" />
-    <meta name="twitter:description" content="Hosting Services HTML Template, software technology, agency & business Bootstrap 5 Html template. It is best and famous hosting services company website template." />
-    <meta name="twitter:image" content="#" />
+    <meta name="twitter:title" content="صفحه پیشفرض سرور های دنیای سرور" />
+    <meta name="twitter:description" content="صفحه پیشفرض سرور های دنیای سرور" />
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/donyayeserver/logo/main/favicon-192x192.png" />
 
     <!--facebook og-->
-    <meta property="og:url" content="#" />
-    <meta name="twitter:title" content="Hostim - Hosting Service Provider HTML Template" />
-    <meta property="og:description" content="Hostim Services HTML Template, software technology, agency & business Bootstrap 5 Html template. It is best and famous hosting services company website template." />
-    <meta property="og:image" content="#" />
-    <meta property="og:image:secure_url" content="#" />
+    <meta property="og:url" content="https://donyayeserver.com" />
+    <meta name="twitter:title" content="صفحه پیشفرض سرور های دنیای سرور" />
+    <meta property="og:description" content="صفحه پیشفرض سرور های دنیای سرور" />
+    <meta property="og:image" content="https://raw.githubusercontent.com/donyayeserver/logo/main/favicon-192x192.png" />
+    <meta property="og:image:secure_url" content="https://donyayeserver.com" />
     <meta property="og:image:type" content="image/png" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="600" />
+    <meta property="og:image:width" content="192" />
+    <meta property="og:image:height" content="192" />
 
     <!--meta-->
-    <meta name="description" content="Hostim - Hosting Services HTML Template, software technology, agency & business Bootstrap 5 Html template. It is best and famous hosting services company website template." />
-    <meta name="author" content="ThemeTags" />
+    <meta name="description" content="صفحه پیشفرض سرور های دنیای سرور" />
+    <meta name="author" content="دنیای سرور" />
 
     <!--favicon icon-->
-    <link rel="icon" href="assets/img/favicon.png" type="image/png" sizes="16x16" />
+    <link rel="icon" href="https://raw.githubusercontent.com/donyayeserver/logo/main/favicon-192x192.png" type="image/png" sizes="16x16" />
 
     <!--title-->
-    <title>Hostim - 404 not found - HTML Template</title>
-
-    <!--google fonts-->
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&family=Urbanist:wght@600;700&display=swap" rel="stylesheet">
+    <title>دنیای سرور | صفحه پیشفرض سرور</title>
 
     <!--build:css-->
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/donyayeserver/page-default-server/main/main.css" />
     <!-- endbuild -->
-
-    <!--custom css-->
-    <link rel="stylesheet" href="assets/css/custom.css" />
 
 </head>
 
@@ -67,12 +61,19 @@
                 <div class="animation-preloader">
                     <div class="spinner"></div>
                     <div class="txt-loading">
-                        <span data-text-preloader="H" class="letters-loading">H</span>
+                        <span data-text-preloader="D" class="letters-loading">D</span>
                         <span data-text-preloader="O" class="letters-loading">O</span>
+                        <span data-text-preloader="N" class="letters-loading">N</span>
+                        <span data-text-preloader="Y" class="letters-loading">Y</span>
+                        <span data-text-preloader="A" class="letters-loading">A</span>
+                        <span data-text-preloader="Y" class="letters-loading">Y</span>
+                        <span data-text-preloader="E" class="letters-loading">E</span>
                         <span data-text-preloader="S" class="letters-loading">S</span>
-                        <span data-text-preloader="T" class="letters-loading">T</span>
-                        <span data-text-preloader="I" class="letters-loading">I</span>
-                        <span data-text-preloader="M" class="letters-loading">M</span>
+                        <span data-text-preloader="E" class="letters-loading">E</span>
+                        <span data-text-preloader="R" class="letters-loading">R</span>
+                        <span data-text-preloader="V" class="letters-loading">V</span>
+                        <span data-text-preloader="E" class="letters-loading">E</span>
+                        <span data-text-preloader="R" class="letters-loading">R</span>
                     </div>
                 </div>
             </div>
