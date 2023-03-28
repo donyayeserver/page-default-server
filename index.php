@@ -35,18 +35,13 @@
     <title>دنیای سرور | صفحه پیشفرض سرور</title>
 
     <!--build:css-->
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/donyayeserver/page-default-server/main/main.css" />
+    <link rel="stylesheet" href="https://hostim-html.themetags.com/assets/css/main.css" />
     <!-- endbuild -->
 
 </head>
 
 <body>
 
-    <!--dark light switcher-->
-    <button class="dark-light-switcher" id="theme-switch">
-        <span class="light-sun"><i class="fa-solid fa-sun"></i></span>
-        <span class="dark-moon"><i class="fa-solid fa-moon"></i></span>
-    </button>
 
     <!--body overlay -->
     <div class="body-overlay"></div>
@@ -86,10 +81,10 @@
         <!--404 start-->
         <div class="not-found-404 bg-primary-gradient d-flex align-items-center justify-content-center">
             <div class="notfound-content text-center">
-                <h1 class="text-white mb-4">404</h1>
-                <h2 class="text-white mb-3">Sorry, something went wrong</h2>
-                <p class="lead">The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
-                <a href="index.html" class="temlate-btn outline-btn mt-4 d-inline-block rounded text-white">Back to Home</a>
+                <h2 class="text-white mb-4">دنیای سرور</h2>
+                <h2 class="text-white mb-3">ارائه دهنده خدمات میزبانی وب</h2>
+                <p class="lead">شما به صفحه یکی از سرور های ما مراجعه کردید لطفا به صفحه اصلی دنیای سرور مراجعه کنید</p>
+                <a href="https://donyayeserver.com" class="temlate-btn outline-btn mt-4 d-inline-block rounded text-white">بازگشت به دنیای سرور</a>
             </div>
         </div>
         <!--404 ends-->
@@ -99,19 +94,19 @@
 
 
     <!--build:js-->
-    <script src="assets/js/vendors/jquery.min.js"></script>
-    <script src="assets/js/vendors/popper.min.js"></script>
-    <script src="assets/js/vendors/bootstrap.min.js"></script>
-    <script src="assets/js/vendors/easing.min.js"></script>
-    <script src="assets/js/vendors/swiper.min.js"></script>
-    <script src="assets/js/vendors/massonry.min.js"></script>
-    <script src="assets/js/vendors/bootstrap-slider.js"></script>
-    <script src="assets/js/vendors/magnific-popup.js"></script>
-    <script src="assets/js/vendors/waypoints.js"></script>
-    <script src="assets/js/vendors/counterup.js"></script>
-    <script src="assets/js/vendors/isotop.pkgd.min.js"></script>
-    <script src="assets/js/vendors/countdown.min.js"></script>
-    <script src="https://raw.githubusercontent.com/donyayeserver/page-default-server/main/app.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/jquery.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/popper.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/bootstrap.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/easing.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/swiper.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/massonry.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/bootstrap-slider.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/magnific-popup.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/waypoints.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/counterup.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/isotop.pkgd.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/vendors/countdown.min.js"></script>
+    <script src="https://hostim-html.themetags.com/assets/js/app.js"></script>
     <!--endbuild-->
 </body>
 
